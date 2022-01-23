@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6e0c1c009837e4893be0d848cfd24c, type: 3}
+  m_Name: AnimalData
+  m_EditorClassIdentifier: 
+  categoryName: Capitales
+  questions:
+  - questionInfo: "Cu\xE1l es la capital de Cuba?"
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: 05fcfb668f0541a48b9469cb22365a5b, type: 3}
+    qustionClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Habana
+    - Artemisa
+    - Matanzas
+    correctAns: Habana
+  - questionInfo: "Cu\xE1l es la capital de Afganist\xE1n?"
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: b644859875adc76498102c8495c5ae8c, type: 3}
+    qustionClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Saint John's.
+    - Riad
+    - Kabul
+    correctAns: Kabul
+  - questionInfo: "Cu\xE1l es la capital de Angola?"
+    questionType: 1
+    qustionImg: {fileID: 21300000, guid: b6186a2dcc923be4f84b41b6e079527c, type: 3}
+    qustionClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Habana
+    - Tirana
+    - Luanda
+    correctAns: Luanda

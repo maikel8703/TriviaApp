@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6e0c1c009837e4893be0d848cfd24c, type: 3}
+  m_Name: BirdlData 1
+  m_EditorClassIdentifier: 
+  categoryName: Historia
+  questions:
+  - questionInfo: "\xBFC\xF3mo se llamaba antes la isla de Cuba?"
+    questionType: 0
+    qustionImg: {fileID: 0}
+    qustionClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Juana
+    - Maria
+    - Laura
+    correctAns: Juana
+  - questionInfo: "\xBFQui\xE9n fue el fundador de Cuba?"
+    questionType: 0
+    qustionImg: {fileID: 0}
+    qustionClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - "Diego Vel\xE1zquez"
+    - Pedro Antonio
+    - Jose Maria
+    correctAns: "Diego Vel\xE1zquez"
+  - questionInfo: "\xBFC\xF3mo se le dice a la isla de Cuba?"
+    questionType: 0
+    qustionImg: {fileID: 0}
+    qustionClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Mayor de las Antillas
+    - Cayo
+    - Islote
+    correctAns: Mayor de las Antillas
